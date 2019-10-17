@@ -1,6 +1,5 @@
 def introduce():
-    print("Hello, I'm Gittie!")
-
+    print("Funszi from the hill")
 
 def add():
     print("Mondj egy új viccet")
